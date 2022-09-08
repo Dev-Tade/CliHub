@@ -1,2 +1,2 @@
 # pyBox
-All in one CLI.
+  All in one CLI powered by Python.
